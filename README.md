@@ -36,3 +36,4 @@ The system should be scalable to handle a growing number of subscribers without 
 Ensure that the implementation follows object-oriented design principles and promotes loose coupling between the news agency and subscribers.
 
 ## UML Diagram
+![alt text](https://github.com/ThezzaSalcedo/SoftEng_Observer-Pattern_LabAss6/blob/main/Real-time%20News%20Subscription%20Service.png)
